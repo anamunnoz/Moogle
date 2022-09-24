@@ -456,29 +456,30 @@ namespace MoogleEngine
 
         }
 
-        //ordenar las palabras de la query segun su tfidf de mayor a menor
 
+        //ordenar las palabras de la query segun su tfidf de mayor a menor
+    
         public static string[] OrdenarQuerySegunTfIdf(List<string> querySinRepetir, double[] queryTfIDf)
         {
             string palabra = " ";
 
-            int posicion = -1;
+            //int posicion = -1;
 
             string[] querySinRepetirAuxiliar = querySinRepetir.ToArray();
 
             double[] queryTfIdfAuxiliar = queryTfIDf;
 
-            for (int i = 0; i < queryTfIDf.Length; i++)
+            for (int i = 0; i < querySinRepetir.Count; i++)
             {
                 double comparador = double.MinValue;
 
-                for (int j = 0; j < querySinRepetir.Count; j++)
+                for (int j = 0; j < queryTfIDf.Length; j++)
                 {
                     if (queryTfIdfAuxiliar[j] > comparador)
                     {
                         palabra = querySinRepetirAuxiliar[j];
 
-                        posicion = j;
+                        //posicion = j;
 
                         comparador = queryTfIdfAuxiliar[j];
 
@@ -488,7 +489,7 @@ namespace MoogleEngine
 
                 querySinRepetirAuxiliar[i] = palabra;
 
-                queryTfIdfAuxiliar[posicion] = double.MinValue;
+                //queryTfIdfAuxiliar[posicion] = double.MinValue;
 
             }
 
@@ -510,7 +511,9 @@ namespace MoogleEngine
 
             int count = 0;
 
-            string[] documento = documentosGuardados[indiceDeLaRuta];
+            //string[] querySinRepetirAuxiliar = querySinRepetir.ToArray();
+
+            //metodo para buscar en que posicion del array de rutas esta la ruta buscada
 
             for (int i = 0; i < arrayDeRutas.Length; i++)
             {
@@ -526,48 +529,60 @@ namespace MoogleEngine
 
             }
 
-            string[] querySinRepetirAuxiliar = OrdenarQuerySegunTfIdf(querySinRepetir, queryTfIDf);
+            string[] documento = documentosGuardados[indiceDeLaRuta];
 
+            string[] querySinRepetirAuxiliar = OrdenarQuerySegunTfIdf(querySinRepetir, queryTfIDf);
 
             //buscar la palabra de la query con mayor tfidf en el documento mas importante y crear el snippet
 
-            for (int i = 0; i < querySinRepetirAuxiliar.Length; i++)
+            for (int a = 0; a < querySinRepetirAuxiliar.Length; a++)
             {
 
-                if (documento.Contains(querySinRepetirAuxiliar[i]))
-                {
+                  if (documento.Contains(querySinRepetirAuxiliar[a]))
+                  {
 
-                    for (int j = 0; j < documento.Length; j++)
-                    {
+                      for (int j = 0; j < documento.Length; j++)
+                      {
 
-                        if (documento[j] == querySinRepetirAuxiliar[i])
-                        {
-                            try
-                            {
-                                for (int k = j; k < j + 20; k++)
-                                {
+                           if (documento[j] == querySinRepetirAuxiliar[a])
+                           {
+                                
+                                    for (int k = j; k < j + 20; k++)
+                                    {
+                                        try
+                                        {
 
-                                    snippets[count] = documento[k];
+                                          snippets[count] = documento[k];
 
-                                    count++;
+                                          count++;
 
-                                }
 
-                            }
 
-                            catch { };
+                                        }
 
-                        }
+                                        catch { };
 
-                    }
+                                    }
 
-                }
+                            break;
+
+                           }
+
+                      }
+
+                   break;
+
+                  }
 
             }
-            snippetsFinal = string.Join(" ", snippets);
+                 snippetsFinal = string.Join(" ", snippets);
 
-            return snippetsFinal;
+                return snippetsFinal;
 
+            }
         }
     }
-}
+
+
+
+

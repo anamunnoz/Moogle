@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Ana Paula\\MATCOM\\PROYECTO\\moogle-main\\MoogleEngine\\MoogleEngine.csproj",
+      "projectUniqueName": "C:\\Ana Paula\\moogle-main\\MoogleEngine\\MoogleEngine.csproj",
       "projectName": "MoogleEngine",
-      "projectPath": "C:\\Ana Paula\\MATCOM\\PROYECTO\\moogle-main\\MoogleEngine\\MoogleEngine.csproj",
+      "projectPath": "C:\\Ana Paula\\moogle-main\\MoogleEngine\\MoogleEngine.csproj",
       "packagesPath": "C:\\Users\\Ana Paula\\.nuget\\packages\\",
-      "outputPath": "C:\\Ana Paula\\MATCOM\\PROYECTO\\moogle-main\\MoogleEngine\\obj\\",
+      "outputPath": "C:\\Ana Paula\\moogle-main\\MoogleEngine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
