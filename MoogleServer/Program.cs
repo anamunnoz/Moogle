@@ -5,11 +5,7 @@ using MoogleEngine;
          MoogleEngine.preSearch.documentosGuardados = preSearch.GuardarTxt(preSearch.ObtenerRuta()); 
 
          MoogleEngine.preSearch.diccionarioTfIDf = preSearch.TfIdf(preSearch.documentosGuardados, preSearch.ObtenerRuta());
-            
-
-
-         static void Main (string[] args)
-         {
+           
 
             var builder = WebApplication.CreateBuilder(args);
 
@@ -35,6 +31,4 @@ using MoogleEngine;
 
             app.Run();
 
-
-        }
 

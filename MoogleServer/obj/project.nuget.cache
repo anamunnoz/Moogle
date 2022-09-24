@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Y4rZ+hU6319Ahax1rw2ICF3emq5E/zd8dQu5/1ORv2yi3BhzYDJexQ54pAccHEn2siZLndd/VhjBuSzONIALQ==",
+  "dgSpecHash": "IZmqIUkuvE5hjA4Oa72KZOUqCAUdPpiBX4+QAI0fkQvJi4AJkJzWgQzHVtQn3JyDuqwOFr+UCWQ63ssgKlwQ1w==",
   "success": true,
-  "projectFilePath": "C:\\Ana Paula\\MATCOM\\PROYECTO\\moogle-main\\MoogleServer\\MoogleServer.csproj",
+  "projectFilePath": "C:\\Ana Paula\\moogle-main\\MoogleServer\\MoogleServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
