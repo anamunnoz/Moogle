@@ -30,15 +30,12 @@ public static class Moogle
         List<string> similitudDeCosenoOrdenado = search.similitudDeCosenoOrdenado(diccionarioSimilitudDeCoseno);
 
         
-
-        //string[] querySinRepetirAuxiliar = search.OrdenarQuerySegunTfIdf(querySinRepetir, queryTfIDf);
-
         
             if (similitudDeCosenoOrdenado.Count == 0)
             {
                 SearchItem[] items = new SearchItem[1];
 
-                items[0] = new SearchItem("No se encontro resultado", "preuebe otra busqueda", 0);
+                items[0] = new SearchItem("No se encontraron resultados", "Pruebe realizar otra búsqueda", 0);
 
                 return new SearchResult(items);
 
@@ -50,8 +47,6 @@ public static class Moogle
 
                 for (int i = 0; i < similitudDeCosenoOrdenado.Count; i++)
                 {
-                    
-
                     string snippets = search.Snippets(querySinRepetir, queryTfIDf, similitudDeCosenoOrdenado[i], preSearch.documentosGuardados, rutas);
                     items[i] = new SearchItem(Path.GetFileNameWithoutExtension(similitudDeCosenoOrdenado[i]),snippets, valor);
 
