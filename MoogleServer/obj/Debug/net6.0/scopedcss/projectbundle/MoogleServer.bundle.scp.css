@@ -4,9 +4,13 @@
 }
 
 .item .title[b-56lu1l4lic] {
-    font-size: large;
+    font-size: 20px;
     font-weight: bold;
+    margin-bottom:  0px;
+
 }
+
+
 /* _content/MoogleServer/Shared/MainLayout.razor.rz.scp.css */
 .page[b-0m1jt7h6x2] {
     position: relative;
