@@ -25,9 +25,11 @@ public static class Moogle
 
         Dictionary<string, double> diccionarioSimilitudDeCoseno = search.diccionarioDeSimilitudDeCoseno(preSearch.documentosGuardados , querySinRepetir , queryTfIDf , preSearch.diccionarioTfIDf , magnitudDeLaQuery , rutas);
 
+        search.Operadores(listaDeOperadores, rutas, preSearch.diccionarioTfIDf, diccionarioSimilitudDeCoseno, preSearch.documentosGuardados);
+
         List<string> similitudDeCosenoOrdenado = search.similitudDeCosenoOrdenado(diccionarioSimilitudDeCoseno);
 
-        search.Operadores(listaDeOperadores, rutas , preSearch.diccionarioTfIDf , diccionarioSimilitudDeCoseno, preSearch.documentosGuardados);
+        
 
         //string[] querySinRepetirAuxiliar = search.OrdenarQuerySegunTfIdf(querySinRepetir, queryTfIDf);
 

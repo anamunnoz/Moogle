@@ -1,7 +1,4 @@
-﻿
-using System;
-
-namespace MoogleEngine
+﻿namespace MoogleEngine
 {
     public static class search
     {
@@ -458,43 +455,69 @@ namespace MoogleEngine
 
 
         //ordenar las palabras de la query segun su tfidf de mayor a menor
-    
+
         public static string[] OrdenarQuerySegunTfIdf(List<string> querySinRepetir, double[] queryTfIDf)
         {
-            string palabra = " ";
 
-            //int posicion = -1;
+            string[] querySinRepetirAuxiliar = new string[querySinRepetir.Count];
 
-            string[] querySinRepetirAuxiliar = querySinRepetir.ToArray();
-
-            double[] queryTfIdfAuxiliar = queryTfIDf;
-
-            for (int i = 0; i < querySinRepetir.Count; i++)
+            for (int i = 0; i < queryTfIDf.Length; i++)
             {
                 double comparador = double.MinValue;
 
-                for (int j = 0; j < queryTfIDf.Length; j++)
+                int posicion = -1;
+
+                for(int j = 0; j < querySinRepetir.Count; j++)
                 {
-                    if (queryTfIdfAuxiliar[j] > comparador)
+
+                    if(queryTfIDf[j] > comparador)
                     {
-                        palabra = querySinRepetirAuxiliar[j];
 
-                        //posicion = j;
+                        posicion = j;
 
-                        comparador = queryTfIdfAuxiliar[j];
+                        comparador = queryTfIDf[j];
 
                     }
 
                 }
 
-                querySinRepetirAuxiliar[i] = palabra;
+                querySinRepetirAuxiliar[i] = querySinRepetir[posicion];
 
-                //queryTfIdfAuxiliar[posicion] = double.MinValue;
+                queryTfIDf[posicion] = -1;
 
             }
 
-            return querySinRepetirAuxiliar;
 
+            /* string palabra = " ";
+
+             string[] querySinRepetirAuxiliar = querySinRepetir.ToArray();
+
+             double[] queryTfIdfAuxiliar = queryTfIDf;
+
+             for (int i = 0; i < querySinRepetir.Count; i++)
+             {
+                 double comparador = double.MinValue;
+
+                 for (int j = 0; j < queryTfIDf.Length; j++)
+                 {
+                     if (queryTfIdfAuxiliar[j] > comparador)
+                     {
+                         palabra = querySinRepetirAuxiliar[j];
+
+                         comparador = queryTfIdfAuxiliar[j];
+
+                     }
+
+                 }
+
+                 querySinRepetirAuxiliar[i] = palabra;
+
+             }
+
+             return querySinRepetirAuxiliar;
+             */
+
+            return querySinRepetirAuxiliar;
         }
 
 
@@ -510,8 +533,6 @@ namespace MoogleEngine
             int indiceDeLaRuta = -1;
 
             int count = 0;
-
-            //string[] querySinRepetirAuxiliar = querySinRepetir.ToArray();
 
             //metodo para buscar en que posicion del array de rutas esta la ruta buscada
 
@@ -538,50 +559,50 @@ namespace MoogleEngine
             for (int a = 0; a < querySinRepetirAuxiliar.Length; a++)
             {
 
-                  if (documento.Contains(querySinRepetirAuxiliar[a]))
-                  {
+                if (documento.Contains(querySinRepetirAuxiliar[a]))
+                {
 
-                      for (int j = 0; j < documento.Length; j++)
-                      {
+                    for (int j = 0; j < documento.Length; j++)
+                    {
 
-                           if (documento[j] == querySinRepetirAuxiliar[a])
-                           {
-                                
-                                    for (int k = j; k < j + 20; k++)
-                                    {
-                                        try
-                                        {
+                        if (documento[j] == querySinRepetirAuxiliar[a])
+                        {
 
-                                          snippets[count] = documento[k];
+                            for (int k = j; k < j + 20; k++)
+                            {
+                                try
+                                {
 
-                                          count++;
+                                    snippets[count] = documento[k];
+
+                                    count++;
 
 
 
-                                        }
+                                }
 
-                                        catch { };
+                                catch { };
 
-                                    }
+                            }
 
                             break;
 
-                           }
+                        }
 
-                      }
+                    }
 
                    break;
 
-                  }
+                }
 
             }
-                 snippetsFinal = string.Join(" ", snippets);
+            snippetsFinal = string.Join(" ", snippets);
 
-                return snippetsFinal;
+            return snippetsFinal;
 
-            }
         }
     }
+}
 
 
 
