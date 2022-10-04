@@ -454,7 +454,7 @@
         }
 
 
-        //ordenar las palabras de la query segun su tfidf de mayor a menor
+        //metodo para ordenar las palabras de la query segun su tfidf de mayor a menor
 
         public static string[] OrdenarQuerySegunTfIdf(List<string> querySinRepetir, double[] queryTfIDf)
         {
@@ -487,43 +487,13 @@
 
             }
 
-
-            /* string palabra = " ";
-
-             string[] querySinRepetirAuxiliar = querySinRepetir.ToArray();
-
-             double[] queryTfIdfAuxiliar = queryTfIDf;
-
-             for (int i = 0; i < querySinRepetir.Count; i++)
-             {
-                 double comparador = double.MinValue;
-
-                 for (int j = 0; j < queryTfIDf.Length; j++)
-                 {
-                     if (queryTfIdfAuxiliar[j] > comparador)
-                     {
-                         palabra = querySinRepetirAuxiliar[j];
-
-                         comparador = queryTfIdfAuxiliar[j];
-
-                     }
-
-                 }
-
-                 querySinRepetirAuxiliar[i] = palabra;
-
-             }
-
-             return querySinRepetirAuxiliar;
-             */
-
             return querySinRepetirAuxiliar;
         }
 
 
-        //snippets
+        //metodo para los snippets
 
-        public static string Snippets(List<string> querySinRepetir, double[] queryTfIDf, string ruta, List<string[]> documentosGuardados, string[] arrayDeRutas)
+        public static string Snippets(string ruta, List<string[]> documentosGuardados, string[] arrayDeRutas , string[] querySinRepetirAuxiliar)
         {
 
             string[] snippets = new string[20];
@@ -551,8 +521,6 @@
             }
 
             string[] documento = documentosGuardados[indiceDeLaRuta];
-
-            string[] querySinRepetirAuxiliar = OrdenarQuerySegunTfIdf(querySinRepetir, queryTfIDf);
 
             //buscar la palabra de la query con mayor tfidf en el documento mas importante y crear el snippet
 
@@ -601,8 +569,60 @@
             return snippetsFinal;
 
         }
+
+
+        //metodo para calcular la distancia de hamill
+
+        public static int DistanciaHamill(string palabraQuery, string palabtraAComparar)
+        {
+
+            int lengthPalabraMenor = Math.Min(palabraQuery.Length, palabtraAComparar.Length);
+
+            int contador = 0;
+            
+            for (int i = 0; i < lengthPalabraMenor; i++)
+            {
+                if(palabraQuery[i] != palabtraAComparar[i])
+                {
+
+                    contador++;
+
+                }
+
+            }
+
+            contador += Math.Abs(palabraQuery.Length - palabtraAComparar.Length);
+  
+            return contador;
+
+        }
+
     }
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

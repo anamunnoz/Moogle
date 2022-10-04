@@ -17,10 +17,10 @@ namespace MoogleEngine
         //metodo para obtener la ruta de cada txt
         public static string[] ObtenerRuta()
         {
+            string ruta = Directory.GetCurrentDirectory();
+            ruta = Path.Join(ruta, "..", "/Content");
 
-            string[] arrayDeRutas = Directory.GetFiles(@"..\Content");
-
-            return arrayDeRutas;
+            return Directory.GetFiles(ruta);
 
         }
 

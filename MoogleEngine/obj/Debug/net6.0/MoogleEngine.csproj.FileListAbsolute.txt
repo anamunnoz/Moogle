@@ -1,24 +1,48 @@
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
-C:\Ana Paula\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
-C:\Ana Paula\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
-C:\Ana Paula\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
-C:\Ana Paula\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
-C:\Ana Paula\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
-C:\Ana Paula\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
-C:\Ana Paula\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
-C:\Ana Paula\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
-C:\Ana Paula\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
-C:\Ana Paula\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
-C:\Ana Paula\moogle-main\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
-C:\Ana Paula\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+C:/Ana Paula/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+C:/Ana Paula/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:/Ana Paula/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+C:/Ana Paula/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+C:/Ana Paula/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+C:/Ana Paula/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+C:/Ana Paula/moogle-main/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+C:/Ana Paula/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+C:/Ana Paula/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+C:/Ana Paula/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+C:/Ana Paula/moogle-main/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+C:/Ana Paula/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleEngine/obj/Debug/net6.0/refint/MoogleEngine.dll
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
