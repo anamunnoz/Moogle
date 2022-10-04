@@ -1,12 +1,24 @@
+
 .results {
     text-align: left;
 }
 
 .item .title {
-    font-size: 20px;
-    font-weight: bold;
+    font-weight: bolder;
     margin-bottom:  0px;
-
 }
 
+.item
+{
+font-size: 18px;
+}
 
+.title {
+    font-size: 25px;
+    color: #1A0DAB;
+    text-decoration: underline;
+}
+   
+.sug:hover{
+    cursor:pointer;
+}

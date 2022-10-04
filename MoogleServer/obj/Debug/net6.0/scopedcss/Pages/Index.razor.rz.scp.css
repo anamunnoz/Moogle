@@ -1,12 +1,24 @@
+
 .results[b-56lu1l4lic] {
     text-align: left;
 }
 
 .item .title[b-56lu1l4lic] {
-    font-size: 20px;
-    font-weight: bold;
+    font-weight: bolder;
     margin-bottom:  0px;
-
 }
 
+.item[b-56lu1l4lic]
+{
+font-size: 18px;
+}
 
+.title[b-56lu1l4lic] {
+    font-size: 25px;
+    color: #1A0DAB;
+    text-decoration: underline;
+}
+   
+.sug:hover[b-56lu1l4lic]{
+    cursor:pointer;
+}

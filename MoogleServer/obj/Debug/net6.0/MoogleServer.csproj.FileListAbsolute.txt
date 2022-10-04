@@ -1,60 +1,120 @@
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\bin\Debug\net6.0\appsettings.json
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\bin\Debug\net6.0\ref\MoogleServer.dll
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
-C:\Ana Paula\MATCOM\PROYECTO\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache
-C:\Ana Paula\moogle-main\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
-C:\Ana Paula\moogle-main\MoogleServer\bin\Debug\net6.0\appsettings.json
-C:\Ana Paula\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
-C:\Ana Paula\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
-C:\Ana Paula\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
-C:\Ana Paula\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
-C:\Ana Paula\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
-C:\Ana Paula\moogle-main\MoogleServer\bin\Debug\net6.0\ref\MoogleServer.dll
-C:\Ana Paula\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
-C:\Ana Paula\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
-C:\Ana Paula\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
-C:\Ana Paula\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.json
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.exe
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/bin/Debug/net6.0/ref/MoogleServer.dll
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+C:/Ana Paula/MATCOM/PROYECTO/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+C:/Ana Paula/moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+C:/Ana Paula/moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.json
+C:/Ana Paula/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+C:/Ana Paula/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.exe
+C:/Ana Paula/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+C:/Ana Paula/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+C:/Ana Paula/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+C:/Ana Paula/moogle-main/MoogleServer/bin/Debug/net6.0/ref/MoogleServer.dll
+C:/Ana Paula/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+C:/Ana Paula/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+C:/Ana Paula/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+C:/Ana Paula/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/refint/MoogleServer.dll
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/marian_susana/Documents/Moogle/Ana Moogle-main/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\bin\Debug\net6.0\appsettings.json
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\bin\Debug\net6.0\ref\MoogleServer.dll
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
+C:\Users\Ana Paula\Desktop\Ana Moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache
