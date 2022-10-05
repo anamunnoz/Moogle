@@ -13,11 +13,29 @@ public static class Moogle
 
         string sugerencia = " ";
 
+        char[] separadoresOperadores = { '!', '^', '*' };
+
         string[] queryNormalizado = search.ObtenerQuery(query);
 
         List<string> listaDeOperadores = search.GuardarOperadores(queryNormalizado);
 
         List<string> querySinRepetir = search.querySinRepetir(queryNormalizado);
+
+        //quitar los operadores a la query para realizar sugerencia 
+
+        foreach (string palabra in querySinRepetir)
+        {
+
+            preSearch.Normalizar(palabra, separadoresOperadores);
+
+        }
+
+        if (querySinRepetir.Contains("~"))
+        {
+
+            querySinRepetir.Remove("~");
+
+        }
 
         double[] queryTfIDf = search.queryTfidf(preSearch.diccionarioTfIDf, querySinRepetir, queryNormalizado, rutas);
 
@@ -31,16 +49,17 @@ public static class Moogle
 
         List<string> similitudDeCosenoOrdenado = search.similitudDeCosenoOrdenado(diccionarioSimilitudDeCoseno);
 
+        
 
         //recorrer la query para crear la nueva query con las palabras sugeridas
 
-        for (int i = 0; i < queryNormalizado.Length;  i++)
+        for (int i = 0; i < querySinRepetir.Count;  i++)
         {
 
-            if (preSearch.diccionarioTfIDf.ContainsKey(queryNormalizado[i]))
+            if (preSearch.diccionarioTfIDf.ContainsKey(querySinRepetir[i]))
             {
 
-                sugerencia += " " + queryNormalizado[i];
+                sugerencia += " " + querySinRepetir[i];
 
             }
 
@@ -53,10 +72,10 @@ public static class Moogle
                 foreach(string palabraAComparar in preSearch.diccionarioTfIDf.Keys)
                 {
 
-                    if(search.DistanciaHamill(queryNormalizado[i] , palabraAComparar) < contador)
+                    if(search.DistanciaHamill(querySinRepetir[i] , palabraAComparar) < contador)
                     {
 
-                        contador = search.DistanciaHamill(queryNormalizado[i], palabraAComparar);
+                        contador = search.DistanciaHamill(querySinRepetir[i], palabraAComparar);
 
                         palabrasDespuesDeLaSugerenia = palabraAComparar;
 
